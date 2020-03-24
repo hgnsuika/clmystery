@@ -1,3 +1,17 @@
-mystery/people:Annabel Sun	F	26	Hart Place, line 43
+mbp:clmystery hgnsuika$ head -20| tail -20 | grep -i line 179 | grep - i line 40 |grep -i annabel  mystery/*
+grep: i: No such file or directory
+grep: line: No such file or directory
+grep: 40: No such file or directory
+grep: 179: No such file or directory
+mystery/crimescene:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+grep: mystery/interviews: Is a directory
+grep: mystery/memberships: Is a directory
+mystery/people:Annabel Sun	F	26	Hart Place, line 40
+mystery/people:Oluwasegun Annabel	M	37	Mattapan Street, line 173
 mystery/people:Annabel Church	F	38	Buckingham Place, line 179
-
+mystery/people:Annabel Fuglsang	M	40	Haley Street, line 176
+grep: mystery/streets: Is a directory
+mystery/vehicles:Owner: Oluwasegun Annabel
+mystery/vehicles:Owner: Annabel Church
+mystery/vehicles:Owner: Annabel Sun
+mystery/vehicles:Owner: Annabel Fuglsang
